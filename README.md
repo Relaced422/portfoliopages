@@ -1,4 +1,4 @@
-🌐 Portfolio – Tobi Quenum
+🌐 Portfolio – Tobi Q
 
 Welkom bij mijn portfolio! Dit project is bedoeld om mijn werk als Software Developer in opleiding te laten zien. Hier presenteer ik schoolopdrachten, projecten waar ik zelf aan werk, en experimentele dingen waar ik mee oefen.
 
